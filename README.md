@@ -9,8 +9,7 @@ This tool creates a side-by-side visualization of Japanese receipt OCR processin
 - Optimized for Japanese convenience store receipts
 
 ## Next Steps
-Planning to improve with:
-- Image preprocessing
+- Image preprocessing (e.g., improve contrast)
 - Border space removal
 - Support for other languages like Chinese and Korean
 
